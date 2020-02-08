@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(2000, 150);
+  createCanvas(1770, 150);
 }
 
 function draw() {
@@ -240,4 +240,3 @@ function printZ(x,y) {
   line(x, y+50, x+50, y+50);
   
 }
-
